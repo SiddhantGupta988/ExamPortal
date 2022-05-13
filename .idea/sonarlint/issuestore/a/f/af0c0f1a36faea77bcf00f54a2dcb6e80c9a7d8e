@@ -1,0 +1,16 @@
+
+E
+java:S5411;"*Use the primitive boolean expression here.(•æˆóÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÃĞ¯¤üÿÿÿÿ
+€
+java:S1128"eRemove this unused import 'org.springframework.security.web.authentication.WebAuthenticationDetails'.(˜öÃˆıÿÿÿÿ
+s
+java:S1128
+"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à
+‡
+java:S1128"qRemove this unused import 'org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter'.(÷ìïŠ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ÄğÒ‘ÿÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(÷õ¨Ìøÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ª«º§
+e
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€

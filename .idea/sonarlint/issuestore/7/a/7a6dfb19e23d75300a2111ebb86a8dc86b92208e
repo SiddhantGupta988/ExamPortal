@@ -1,0 +1,16 @@
+
+M
+java:S1135+"2Complete the task associated to this TODO comment.(ƒ® ϊÿÿÿÿ
+L
+java:S3740¬"/Provide the parametrized type for this generic.(»άπ#8Μπή€ς/
+J
+java:S1602§",Remove useless curly braces around statement(πγΓƒ8„ ί€ς/
+V	java:S106―"9Replace this use of System.out or System.err by a logger.(ΩªΦ8Μπή€ς/
+V	java:S106±"9Replace this use of System.out or System.err by a logger.(”‡π8Μπή€ς/
+4
+java:S1128"Remove this duplicated import.(ώ‘‹„
+C
+java:S1948'"&Make "role" transient or serializable.(ή©μ8Ϋ³κύρ/
+\	java:S1079"BConstructor has 10 parameters, which is greater than 7 authorized.(α›χτόÿÿÿÿ
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(¨ρΥ’8Μπή€ς/
+Q	java:S125]"<This block of commented-out lines of code should be removed.(ψβΟ›

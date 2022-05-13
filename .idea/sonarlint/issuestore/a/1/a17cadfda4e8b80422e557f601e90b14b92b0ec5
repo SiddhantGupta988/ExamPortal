@@ -1,0 +1,9 @@
+
+‘
+java:S1128"vRemove this unused import 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration'.(Æ­¹¬øÿÿÿÿ
+Q
+java:S1874@";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰ö
+l
+java:S1128"VRemove this unused import 'org.springframework.beans.factory.annotation.Configurable'.(ïÜğş
+x
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ
